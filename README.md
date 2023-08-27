@@ -1,7 +1,7 @@
 # GitHub for Developers
 
-- Class Date: THIS-DATE
-- Facilitator: @TEACHER-HANDLE
+- Class Date: Aug 27, 2023
+- Facilitator: @Rustam Savaziyev
 
 ## Class Resources
 
